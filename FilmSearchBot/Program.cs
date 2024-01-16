@@ -11,7 +11,7 @@ public class Program
 {
     public static async Task Main(string[] args)
     {
-        var botClient = new TelegramBotClient("6666617530:AAEc5I4KUCpYe1JHw2KM4g0AD9GGSvxDxb0");
+        var botClient = new TelegramBotClient("6666617530:AAEc5I4KUCpYe1JHw2KM4g0AD9GGSvxDxb");
 
         using CancellationTokenSource cts = new();
 

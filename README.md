@@ -1,3 +1,2 @@
-# Film-Search-Bot as VKM Bot
-
-![image](https://github.com/SardorSohinazarov/Film-Search-Bot/assets/107931170/7d056031-7ddd-4d7b-81c9-4787dd1c9800)
+## You have been loosing yourself among my repos, right?
+### So, check this out:  `https://github.com/AbuProgrammiy/Homework/tree/master/hiddenHomework-hi-hi-hi`
